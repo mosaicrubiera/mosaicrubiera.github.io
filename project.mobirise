@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MOSAIC Hamburgeria Beer Wine",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1823,6 +1823,9 @@
               "a:focus": {
                 "text-decoration": "none"
               }
+            },
+            "H2": {
+              "color": "#ffffff"
             }
           },
           "_name": "social-buttons2",
